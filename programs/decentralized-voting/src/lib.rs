@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("AC6AfeEEGnPQFnQ6HzCB4ccAwGLCgRwimKcdZHoyYfBT");
+declare_id!("Your Program ID");
 
 #[program]
 pub mod decentralized_voting {
